@@ -7,7 +7,7 @@ The **Frankencoin Grant Program (FGP)** is an initiative by the Frankencoin Asso
 Grant applications follow a structured process to ensure transparency and efficiency:
 
 1. **Fork this repository**
-2. **Create a Frankencoin Grant Proposal (FGP)** following the [FGP Template](./FGP-00: Template/FGP-00.md)
+2. **Create a Frankencoin Grant Proposal (FGP)** following the [FGP Template](<./FGP-00: Template/FGP-00.md>)
 3. **Submit a Pull Request (PR)** with your proposal
 4. **Review & Discussion** – The Frankencoin Association Board will review, provide feedback, and discuss the application
 5. **Decision & Funding** – If approved, grants will be awarded based on agreed milestones
